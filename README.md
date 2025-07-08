@@ -1,3 +1,4 @@
 # Git Merge Conflict Demo
-Feature branch edit line.
+Main branch edit line.
+
 
